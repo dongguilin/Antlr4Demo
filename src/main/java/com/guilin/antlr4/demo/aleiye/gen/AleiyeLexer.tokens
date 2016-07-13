@@ -1,0 +1,16 @@
+T__0=1
+T__1=2
+T__2=3
+ID=4
+PERIOD=5
+LPAREN=6
+RPAREN=7
+NUM=8
+NEWLINE=9
+STRING=10
+WS=11
+','=1
+'as'=2
+'='=3
+'('=6
+')'=7

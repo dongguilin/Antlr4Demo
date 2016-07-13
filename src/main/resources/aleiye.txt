@@ -1,0 +1,2 @@
+top hello
+datereport count(hello) as ch on hello span=1d
